@@ -1,0 +1,199 @@
+commit 06b6652e8c14b31b6a5470610fcd30cae2404ca2
+Merge: 5d9f81c a8c3373
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Nov 7 11:32:09 2018 -0600
+
+    resolvi los conflictoss
+
+commit 5d9f81c6d0a795a2131d7a4ec10bdea7b8babe1e
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Nov 7 11:27:06 2018 -0600
+
+    actualizacion local
+
+commit a8c337326d6c4fb806dda9f5d40e7ffc054c989c
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Wed Nov 7 11:25:11 2018 -0600
+
+    Update tarea10.txt
+    
+    Modificacion remota de tarea10
+
+commit f24dd51fd54a24434341d1dd9e048994c9c71abe
+Merge: 5b5afac 5b63096
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Nov 7 11:15:16 2018 -0600
+
+    Merge branch 'master' of https://github.com/FernandoGarrote/practicastc1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit 5b63096ce7f4e7259f6afea253c1dfbe348f3f53
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Wed Nov 7 11:13:18 2018 -0600
+
+    Create tarea11.txt
+    
+    Subi mi tarea en el repositorio remoto
+
+commit 5b5afacba048faf63fa9ca066de70e254ac6cd63
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Nov 7 11:12:11 2018 -0600
+
+    tarea local
+
+commit a3c9e15184ff4cb8233640cd156dacd787f694b1
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 13:35:18 2018 -0600
+
+    Ejercicio programacion intro a ITC
+
+commit c604511e5275ffdba2b7998f623c8eaf6f3bed98
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:31:45 2018 -0600
+
+    Add files via upload
+    
+    ITC programacion ejercicios
+
+commit 99fea561bc350cca925aded3956d6a0d30c2cb21
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 13:29:05 2018 -0600
+
+    CISCO
+
+commit 664bcd778235f83ff76fb45b2ebc84bef8b78b99
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:25:31 2018 -0600
+
+    Add files via upload
+    
+    Cisco
+
+commit 7169ae9c47633eb566c274ea5dfba5852de6bd00
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 13:26:13 2018 -0600
+
+    Deloitte
+
+commit b7baaa293259a3afa48390408d7f20ea7f0b7e77
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:22:57 2018 -0600
+
+    Add files via upload
+    
+    Deloitte
+
+commit 275083c925cccba56e640e9dbe3798bdf4d2e12b
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 13:23:37 2018 -0600
+
+    Facebook
+
+commit 5dcdaf0253e0bbec5acbb2cb29575ec9451b0395
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:19:03 2018 -0600
+
+    Add files via upload
+    
+    Facebook
+
+commit 12015eff1d4061ef5f8104b9166eddf0a59622e6
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 13:19:29 2018 -0600
+
+    Archivos Tarea
+
+commit d4b0ae0584fb1bc2b0df91d51a77a8f48a93da3c
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:12:36 2018 -0600
+
+    Add files via upload
+    
+    Microsoft
+
+commit 599694e08b3c403b07c004538e88b862d1b3fc99
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:02:22 2018 -0600
+
+    Add files via upload
+    
+    Tarea platica Drink IQ
+
+commit b0bb4345145600df06cedc27784aabd9db916dea
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 13:01:09 2018 -0600
+
+    Delete Tarea 1-Drink IQ.docx
+
+commit 4c07eb849cd9f5dc5ee1b2c501e2ec67946e36a0
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 12:49:02 2018 -0600
+
+    Add files via upload
+    
+    Llave publica Ariel
+
+commit 71a17ecb843822ff6c382bbc14adc2e9967af074
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 12:46:05 2018 -0600
+
+    Add files via upload
+    
+    Tarea platica Drink IQ
+
+commit ae116ab819e361d3982f92d16ab0e1313167fba5
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 12:12:22 2018 -0600
+
+    Se elimino la llave privada
+
+commit a253e2a9b6ae058ad86bc728a55b2ebe4447e2fb
+Author: FernandoGarrote <42215154+FernandoGarrote@users.noreply.github.com>
+Date:   Fri Nov 2 12:12:03 2018 -0600
+
+    Delete myPublicKey.gpg
+    
+    Se elimino la llave privada
+
+commit eb974c84781cd2cafbbcbc65dbf2deaebe16953a
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 12:07:32 2018 -0600
+
+    exportar llaves publicas y privadas
+
+commit 7a7ae22d79c8815c89b4891ac359b00b9b038f32
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Tue Oct 30 21:14:09 2018 -0600
+
+    mi primer commit
+
+commit fc9be93fe3c6f02324179bdc432300014f54cc3f
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Oct 26 16:50:03 2018 -0500
+
+    exportar llaves publicas y privadas
+
+commit 27d6bc6eaf9381f20a5e02bde063eb3f5449fd7c
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Oct 24 12:00:36 2018 -0500
+
+    exportar llaves publics y privadas
+
+commit 5ed53ff953e65b72c819e03e02befce9a2aab1bc
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Fri Nov 2 11:41:09 2018 -0600
+
+    mi primer commit
+
+commit bc8c66e637655d7e3a3ae1d7aa417eef758297c7
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Oct 24 10:50:34 2018 -0500
+
+    first commit
+
+commit 7162a056b00585eee1c2a570a1cd44c89cbb3b6c
+Author: FernandoGarrote <a01027503@itesm.mx>
+Date:   Wed Oct 24 10:49:22 2018 -0500
+
+    primer commit
